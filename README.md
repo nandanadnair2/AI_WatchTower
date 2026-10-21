@@ -180,4 +180,17 @@ aiwatchtower/
 
 ## 📄 License
 
-Add a license of your choice (for example MIT) before publishing.
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Third-party software
+
+This project builds on open-source and third-party components, each under its own license:
+
+Component	License
+React, React Router	MIT
+Vite, Tailwind CSS	MIT
+Microsoft Presidio, spaCy (planned)	MIT
+FastAPI (planned)	MIT
+Openlayer, Vanta API (planned)	Commercial services, subject to their own terms
+
+NIST AI RMF and ISO/IEC 42001 are referenced as compliance frameworks only. This project is not certified against or endorsed by NIST or ISO.
